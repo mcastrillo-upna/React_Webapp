@@ -1,0 +1,35 @@
+
+.text{
+    padding-top: 25px;
+    margin-left:30px;
+}
+
+.quantity{
+    padding-top: 50px;
+    text-align: right;
+    width: 200px;
+    display: block;
+    margin-right: 20px;
+;
+}
+
+.divimagen{
+    width: 150px;
+    margin-left: 25px;
+}
+
+.boton{
+    margin:10px;
+    width: 40px;
+    text-align: center;
+}
+
+.Product {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+    margin: 20px auto;
+    border: 2px solid #eee;
+}
